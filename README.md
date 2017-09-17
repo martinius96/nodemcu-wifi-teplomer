@@ -11,4 +11,6 @@ Wifi teplomer je projekt, kde sa využíva NodeMCU v AP móde, je to vlastne hot
 # Obrázky z projektu - (ilustračné)
 ![alt text](https://arduino.php5.sk/images/wifiteplomer.png)
 ![alt text](https://arduino.php5.sk/images/wifiteplomer2.jpg)
+# PODPORA A KONTAKT
+* Ak ma chcete podporiť/kontaktovať, navštívte moju stránku: https://arduino.php5.sk
  
