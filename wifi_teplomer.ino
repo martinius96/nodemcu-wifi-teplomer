@@ -1,9 +1,4 @@
-// Autor: Martin Chlebovec alias: martinius96
-// Podpora: https://www.paypal.me/Chlebovec
-// Osobný web: https://arduino.php5.sk
-// Email kontakt: martinius96@gmail.com
-// Facebook kontakt: 100001242570317
-// Používajte v súhade s licenciou!
+//webserver je na IP: 192.168.4.1 --> predpisane kniznicou
 #include <OneWire.h>                 //KNIZNICA ONEWIRE PRE VYUZITIE ONEWIRE ZBERNICE
 #include <DallasTemperature.h>       //KNIZNICA PRE TEPLOTNE CIDLA
 #define ONE_WIRE_BUS 2               //DEFINICIA PINU AKO ZBERNICE PRE ONEWIRE ZARIADENIA
