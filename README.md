@@ -14,7 +14,7 @@ Wifi teplomer je projekt, kde sa využíva NodeMCU v AP móde, je to vlastne hot
 ![alt text](https://i.nahraj.to/f/2bLk.PNG)
 # Problémy
 * Ak systém meria -127°C, nemáte zapojené senzory
-![alt text](https://i.nahraj.to/f/2bLm.png)
+* ![alt text](https://i.nahraj.to/f/2bLm.png)
 * Ak systém meria 85°C, máte zlé zapojenie senzorov
 # Vytvoril
 * Martin Chlebovec
