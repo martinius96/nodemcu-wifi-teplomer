@@ -4,8 +4,8 @@
 #define ONE_WIRE_BUS 2
 OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
-const char* ssid     = "Martinko";
-const char* password = "chefrolet";
+const char* ssid  = "MenoWifi";
+const char* password = "Heslo";
 WiFiServer server(80);
 String header;
 
