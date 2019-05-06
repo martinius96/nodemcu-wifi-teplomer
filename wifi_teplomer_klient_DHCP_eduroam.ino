@@ -1,3 +1,5 @@
+//EXPERIMENTAL
+//CORE 2.5.0
 #include <ESP8266WiFi.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
