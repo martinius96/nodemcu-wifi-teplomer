@@ -1,9 +1,17 @@
+/*|---------------------------------|*/
+/*|Projekt: WiFi teplomer - ESP8266 |*/
+/*|Autor: Martin Chlebovec          |*/
+/*|E-mail: martinius96@gmail.com    |*/
+/*|Web: https://arduino.php5.sk     |*/
+/*|Licencia pouzitia: MIT           |*/
+/*|---------------------------------|*/
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
-#include <OneWire.h>                 //KNIZNICA ONEWIRE PRE VYUZITIE ONEWIRE ZBERNICE
-#include <DallasTemperature.h>       //KNIZNICA PRE TEPLOTNE CIDLA
-#define ONE_WIRE_BUS 2               //DEFINICIA PINU AKO ZBERNICE PRE ONEWIRE ZARIADENIA
-OneWire oneWire(ONE_WIRE_BUS);       //ONEWIRE ČÍTAŤ IBA NA PORTE DEFINOVANOM VYSSIE
+#include <OneWire.h>             
+#include <DallasTemperature.h>  
+#define ONE_WIRE_BUS 2
+OneWire oneWire(ONE_WIRE_BUS); 
 DallasTemperature sensors(&oneWire);
 const char *ssid = "MojaESPsietWPA";
 const char *password = "hesloksieti";
