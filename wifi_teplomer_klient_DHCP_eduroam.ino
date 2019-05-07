@@ -1,3 +1,11 @@
+/*|---------------------------------|*/
+/*|Projekt: WiFi teplomer - ESP8266 |*/
+/*|Autor: Martin Chlebovec          |*/
+/*|E-mail: martinius96@gmail.com    |*/
+/*|Web: https://arduino.php5.sk     |*/
+/*|Licencia pouzitia: MIT           |*/
+/*|---------------------------------|*/
+
 //EXPERIMENTAL
 //CORE 2.5.0
 #include <ESP8266WiFi.h>
