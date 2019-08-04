@@ -23,6 +23,6 @@ Wifi teplomer je projekt, kde sa využíva NodeMCU v AP móde, je to vlastne hot
 # Vytvoril
 * Martin Chlebovec
 * E-mail: martinius96@gmail.com
-# Zapojenie (GPIO pin 2 je pin D4 - korešponduje s programom):
-![alt text](https://i.nahraj.to/f/2bLn.png)
+# Zapojenie
+![alt text](https://i.imgur.com/aTzun62.png)
  
